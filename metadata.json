@@ -1,0 +1,8 @@
+{
+  "name": "MenuViz AI",
+  "description": "Instantly visualize restaurant menus in any language using Google Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
